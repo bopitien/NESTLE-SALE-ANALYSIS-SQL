@@ -14,3 +14,4 @@ You have been employed as a Data Analyst in the Growth
 and Strategy Department of Nestle and asked to develop a
 product comparison dashboard to help the company take a
 decision on its expansion plans. 
+download data from https://docs.google.com/spreadsheets/d/1I5wpmPGSvrS3-XSNuOeX58urbqNVPeT_/edit?usp=sharing&ouid=103285585704076316575&rtpof=true&sd=true
